@@ -1,0 +1,23 @@
+ 
+# Java
+*.class
+
+# Maven
+target/
+.classpath
+.project
+.settings/
+
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
